@@ -1,6 +1,6 @@
 <h1 align="center"> Olá, Eu sou o Angelo <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="32"></h1>
 
-<h3 align="center"> <strong>Sou um entusiasta da tecnologia e um estudante do 2º ano do Ensino Médio, atualmente focado no curso de Desenvolvimento de Sistemas. Estou animado para iniciar minha jornada profissional e aplicar meu conhecimento em um ambiente prático.<strong></h3>
+<h2 align="center"> <strong>Sou um entusiasta da tecnologia e um estudante do 2º ano do Ensino Médio, atualmente focado no curso de Desenvolvimento de Sistemas. Estou animado para iniciar minha jornada profissional e aplicar meu conhecimento em um ambiente prático.<strong></h2>
 
 ---
 
