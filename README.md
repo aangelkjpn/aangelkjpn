@@ -6,7 +6,7 @@
 <h3 align="center"> 🤓 <span style="background: linear-gradient(90deg,#fff,#557ED8); -webkit-background-clip: text; color: transparent;">Entusiasta da tecnologia</span> | <span style="color:#B0C4DE">Estudante de Desenvolvimento de Sistemas</span> </h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=828282&center=true&vCenter=true&width=500&lines=Explorando+o+universo+da+programação;Desenvolvimento+Web;Automação" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=828282&center=true&vCenter=true&width=500&lines=Explorando+o+universo+da+programação;Desenvolvimento+Web;Automação" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -39,8 +39,8 @@
 
 <div>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aangelkjpn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" alt="Estatísticas do GitHub" height="190" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aangelkjpn&theme=dark&hide_border=false" alt="Sequência de Contribuições" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aangelkjpn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="190" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aangelkjpn&theme=dark&hide_border=true" alt="Sequência de Contribuições" height="180" />
   </div>
 </div>
 
