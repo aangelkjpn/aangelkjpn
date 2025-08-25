@@ -35,17 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aangelkjpn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="190" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aangelkjpn&theme=dark&hide_border=true" alt="Sequência de Contribuições" height="180" />
-  </div>
-</div>
-
----
-
 ## 📜 Certificados & Cursos
 
 ### 🎓 SENAI
@@ -70,6 +59,17 @@
   
   <p>Conclusão: Maio 2024</p>
   
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=aangelkjpn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="190" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aangelkjpn&theme=dark&hide_border=true" alt="Sequência de Contribuições" height="180" />
+  </div>
 </div>
 
 ---
