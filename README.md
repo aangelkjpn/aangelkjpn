@@ -20,18 +20,10 @@
 
 ## ⚡ Tech Stack
 
-<div align="left">
+<div align="center">
   
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" alt="VSCode"/>
-  <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white" alt="JSON"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?logo=microsoft-powerpoint&logoColor=white" alt="PowerPoint"/>
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript,vscode,git,github,java,react,cf" />
+  
 </div>
 
 ---
@@ -44,10 +36,8 @@
   
   [![IA Fundamentos](https://img.shields.io/badge/IA_Fundamentos-SENAI-blue?style=for-the-badge)](./certificados/FLUÊNCIA___FUNDAMENTOS_DA_INTELIGÊNCIA_ARTIFICIAL-Certificado_2718604.pdf)
   [![Empreender](https://img.shields.io/badge/Empreender_SENAI-SENAI-green?style=for-the-badge)](./certificados/Empreender_SENAI-Certificado_2718547.pdf)
-
   [![Web 3.0](https://img.shields.io/badge/Web_3.0-SENAI-purple?style=for-the-badge)](./certificados/WEB_3.0-Certificado_2718621.pdf)
   [![ESG](https://img.shields.io/badge/Desvendando_ESG-SENAI-brightgreen?style=for-the-badge)](./certificados/Desvendando_o_ESG-Certificado_2718590.pdf)
-
   [![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-SENAI-orange?style=for-the-badge)](./certificados/Desvendando_a_Indústria_4.0-Certificado_2718495.pdf)
   
 </div>
@@ -61,6 +51,8 @@
   <p>Conclusão: Maio 2024</p>
   
 </div>
+
+
 
 ---
 
