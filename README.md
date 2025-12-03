@@ -13,8 +13,7 @@
   
   [![Instagram](https://img.shields.io/badge/%40aangelo.gl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aangelo.gl/) 
   [![GitHub](https://img.shields.io/badge/aangelkjpn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aangelkjpn)
-  
-  
+
 </div>
 
 ---
@@ -53,22 +52,12 @@
 
 </div>
 
-
-
----
-
-## 📊 GitHub Stats
-
-<div>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aangelkjpn&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" height="190" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aangelkjpn&theme=dark&hide_border=true" alt="Sequência de Contribuições" height="180" />
-  </div>
-</div>
-
 ---
 
 <div align="center">
   
   <p> <b> Obrigado pela visita! Sinta-se à vontade para entrar em contato. </b> </p>
   
+  <img src="https://komarev.com/ghpvc/?username=aangelkjpn&color=blue&style=flat" alt="Visualizações do perfil" />
+  
+</div>
