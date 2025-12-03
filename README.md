@@ -12,7 +12,6 @@
 <div align="center">
   
   [![Instagram](https://img.shields.io/badge/%40aangelo.gl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aangelo.gl/) 
-  [![GitHub](https://img.shields.io/badge/aangelkjpn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aangelkjpn)
 
 </div>
 
