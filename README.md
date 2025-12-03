@@ -18,7 +18,7 @@
 
 ---
 
-## ⚡ Tech Stack
+<h2 align="center">⚡ Tech Stack</h2>
 
 <div align="center">
   
@@ -28,9 +28,9 @@
 
 ---
 
-## 📜 Certificados & Cursos
+<h2 align="center">📜 Certificados & Cursos</h2>
 
-### 🎓 SENAI
+### SENAI
 
 <div>
   
@@ -42,7 +42,7 @@
   
 </div>
 
-### 🔗 Cisco
+### Cisco
 
 <div>
   
