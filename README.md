@@ -67,5 +67,15 @@
 ---
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aangelkjpn/aangelkjpn/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aangelkjpn/aangelkjpn/output/github-snake.svg">
+    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/aangelkjpn/aangelkjpn/output/github-snake.svg">
+  </picture>
+</div>
+
+---
+
+<div align="center">
   <p><b>Obrigado pela visita! Fique à vontade para entrar em contato.</b></p>
 </div>
