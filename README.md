@@ -65,14 +65,6 @@
 
 </details>
 
----|---|---|
-| Python Essentials | Cisco · 2024 | [Credly](https://www.credly.com/earner/earned/badge/a5b2d333-68f6-49f5-84f1-eefc21d27cad) |
-| Fundamentos da Inteligência Artificial | SENAI | [Ver PDF](./certificados/FLUÊNCIA___FUNDAMENTOS_DA_INTELIGÊNCIA_ARTIFICIAL-Certificado_2718604.pdf) |
-| Desvendando a Indústria 4.0 | SENAI | [Ver PDF](./certificados/Desvendando_a_Indústria_4.0-Certificado_2718495.pdf) |
-| Web 3.0 | SENAI | [Ver PDF](./certificados/WEB_3.0-Certificado_2718621.pdf) |
-| Empreender SENAI | SENAI | [Ver PDF](./certificados/Empreender_SENAI-Certificado_2718547.pdf) |
-| Desvendando o ESG | SENAI | [Ver PDF](./certificados/Desvendando_o_ESG-Certificado_2718590.pdf) |
-
 ---
 
 <div align="center">
