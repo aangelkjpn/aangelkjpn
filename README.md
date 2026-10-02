@@ -49,27 +49,19 @@
 
 ## Certificados & Cursos
 
-### SENAI
+<details open>
+<summary><b>Ver certificados (6)</b></summary>
+<br>
 
-<div>
-  
-  [![IA Fundamentos](https://img.shields.io/badge/IA_Fundamentos-blue?style=for-the-badge)](./certificados/FLUÊNCIA___FUNDAMENTOS_DA_INTELIGÊNCIA_ARTIFICIAL-Certificado_2718604.pdf)
-  [![Empreender](https://img.shields.io/badge/Empreender_SENAI-green?style=for-the-badge)](./certificados/Empreender_SENAI-Certificado_2718547.pdf)
-  [![Web 3.0](https://img.shields.io/badge/Web_3.0-purple?style=for-the-badge)](./certificados/WEB_3.0-Certificado_2718621.pdf)
-  [![ESG](https://img.shields.io/badge/Desvendando_ESG-brightgreen?style=for-the-badge)](./certificados/Desvendando_o_ESG-Certificado_2718590.pdf)
-  [![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-orange?style=for-the-badge)](./certificados/Desvendando_a_Indústria_4.0-Certificado_2718495.pdf)
+  <img src="./assets/cisco.png" height="28" alt="Cisco"> [![Python Essentials](https://img.shields.io/badge/Python_Essentials_·_2024-30363d?style=for-the-badge)](https://www.credly.com/earner/earned/badge/a5b2d333-68f6-49f5-84f1-eefc21d27cad)
 
-</div>
+  <img src="./assets/senai.png" height="28" alt="SENAI"> [![Fundamentos da IA](https://img.shields.io/badge/Fundamentos_da_IA-30363d?style=for-the-badge)](./certificados/FLUÊNCIA___FUNDAMENTOS_DA_INTELIGÊNCIA_ARTIFICIAL-Certificado_2718604.pdf)
+  [![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-30363d?style=for-the-badge)](./certificados/Desvendando_a_Indústria_4.0-Certificado_2718495.pdf)
+  [![Web 3.0](https://img.shields.io/badge/Web_3.0-30363d?style=for-the-badge)](./certificados/WEB_3.0-Certificado_2718621.pdf)
+  [![Empreender SENAI](https://img.shields.io/badge/Empreender-30363d?style=for-the-badge)](./certificados/Empreender_SENAI-Certificado_2718547.pdf)
+  [![Desvendando o ESG](https://img.shields.io/badge/Desvendando_o_ESG-30363d?style=for-the-badge)](./certificados/Desvendando_o_ESG-Certificado_2718590.pdf)
 
-### Cisco
-
-<div>
-
-[![Python Essentials](https://img.shields.io/badge/Cisco_Python_Essentials-Certificado-a5b2d3?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/badge/a5b2d333-68f6-49f5-84f1-eefc21d27cad)
-
-<p>Conclusão: Maio 2024</p>
-
-</div>
+</details>
 
 ---
 
