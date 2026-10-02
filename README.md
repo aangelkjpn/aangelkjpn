@@ -53,8 +53,7 @@
 <summary><b>Ver certificados (6)</b></summary>
 <br>
 
-  ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-  [![Python Essentials](https://img.shields.io/badge/Python_Essentials_·_2024-30363d?style=for-the-badge)](https://www.credly.com/earner/earned/badge/a5b2d333-68f6-49f5-84f1-eefc21d27cad)
+  <img src="./assets/cisco.png" height="28" alt="Cisco"> [![Python Essentials](https://img.shields.io/badge/Python_Essentials_·_2024-30363d?style=for-the-badge)](https://www.credly.com/earner/earned/badge/a5b2d333-68f6-49f5-84f1-eefc21d27cad)
 
   <img src="./assets/senai.png" height="28" alt="SENAI"> [![Fundamentos da IA](https://img.shields.io/badge/Fundamentos_da_IA-30363d?style=for-the-badge)](./certificados/FLUÊNCIA___FUNDAMENTOS_DA_INTELIGÊNCIA_ARTIFICIAL-Certificado_2718604.pdf)
   [![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-30363d?style=for-the-badge)](./certificados/Desvendando_a_Indústria_4.0-Certificado_2718495.pdf)
