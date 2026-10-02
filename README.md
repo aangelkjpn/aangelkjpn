@@ -54,11 +54,14 @@
 <br>
 
   [![Cisco Python Essentials](https://img.shields.io/badge/Python_Essentials-Cisco_·_2024-484f58?style=for-the-badge&labelColor=30363d&logo=cisco&logoColor=white)](https://www.credly.com/earner/earned/badge/a5b2d333-68f6-49f5-84f1-eefc21d27cad)
-  [![Fundamentos da IA](https://img.shields.io/badge/Fundamentos_da_IA-SENAI-484f58?style=for-the-badge&labelColor=30363d&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](./certificados/FLUÊNCIA___FUNDAMENTOS_DA_INTELIGÊNCIA_ARTIFICIAL-Certificado_2718604.pdf)
-  [![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-SENAI-484f58?style=for-the-badge&labelColor=30363d&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](./certificados/Desvendando_a_Indústria_4.0-Certificado_2718495.pdf)
-  [![Web 3.0](https://img.shields.io/badge/Web_3.0-SENAI-484f58?style=for-the-badge&labelColor=30363d&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](./certificados/WEB_3.0-Certificado_2718621.pdf)
-  [![Empreender SENAI](https://img.shields.io/badge/Empreender-SENAI-484f58?style=for-the-badge&labelColor=30363d&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](./certificados/Empreender_SENAI-Certificado_2718547.pdf)
-  [![Desvendando o ESG](https://img.shields.io/badge/Desvendando_o_ESG-SENAI-484f58?style=for-the-badge&labelColor=30363d&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik01IDEzLjE4djRMMTIgMjFsNy0zLjgydi00TDEyIDE3bC03LTMuODJ6TTEyIDNMMSA5bDExIDYgOS00LjkxVjE3aDJWOUwxMiAzeiIvPjwvc3ZnPg%3D%3D&logoColor=white)](./certificados/Desvendando_o_ESG-Certificado_2718590.pdf)
+
+<img src="./assets/senai.png" height="20" alt="SENAI">
+
+  [![Fundamentos da IA](https://img.shields.io/badge/Fundamentos_da_IA-30363d?style=for-the-badge)](./certificados/FLUÊNCIA___FUNDAMENTOS_DA_INTELIGÊNCIA_ARTIFICIAL-Certificado_2718604.pdf)
+  [![Indústria 4.0](https://img.shields.io/badge/Indústria_4.0-30363d?style=for-the-badge)](./certificados/Desvendando_a_Indústria_4.0-Certificado_2718495.pdf)
+  [![Web 3.0](https://img.shields.io/badge/Web_3.0-30363d?style=for-the-badge)](./certificados/WEB_3.0-Certificado_2718621.pdf)
+  [![Empreender SENAI](https://img.shields.io/badge/Empreender-30363d?style=for-the-badge)](./certificados/Empreender_SENAI-Certificado_2718547.pdf)
+  [![Desvendando o ESG](https://img.shields.io/badge/Desvendando_o_ESG-30363d?style=for-the-badge)](./certificados/Desvendando_o_ESG-Certificado_2718590.pdf)
 
 </details>
 
