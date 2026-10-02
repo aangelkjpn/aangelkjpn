@@ -8,15 +8,23 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=828282&center=true&vCenter=true&width=500&lines=Desenvolvimento+Web;Back-end+e+Mobile;Aprendizado+contínuo" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=828282&center=true&vCenter=true&width=500&lines=Desenvolvimento+Web;Back-end+e+Mobile;Estagiário+PROATI;Aprendizado+contínuo" />
 </p>
 
 <div align="center">
   
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge)](https://www.instagram.com/aangelo.gl/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/angelogabriel-dev/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:angelogabrielcuerbadelima8@gmail.com)
   
 </div>
+
+---
+
+## Sobre mim
+
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Unoeste** – Presidente Prudente
+- 💼 Estagiário de TI pelo **PROATI** (SEDUC-SP), criando soluções web para o dia a dia da escola
 
 ---
 
@@ -30,18 +38,12 @@
 
 ## Projetos em Destaque
 
-### 🎮 GameFinder
-Aplicativo mobile desenvolvido como **projeto acadêmico no SENAI**, com foco em front-end, back-end e integração com banco de dados.
-
-**Tecnologias utilizadas:**
-- React Native
-- Node.js
-- MySQL
-- APIs REST
-- Git & GitHub
-
-👉 Repositório:  
-[`GameFinder`](https://github.com/aangelkjpn/GameFinder)
+| Projeto | Descrição | Tecnologias |
+|---|---|---|
+| 🎮 [GameFinder](https://github.com/aangelkjpn/GameFinder) | App mobile – TCC no SENAI | React Native · Node.js · MySQL |
+| 💻 [Controle Saída/Entrada](https://github.com/aangelkjpn/Controle_Saida_Entrada) | Controle de empréstimo de notebooks e fones na escola | HTML · CSS · JavaScript |
+| 📋 [Chamada Notebooks](https://github.com/aangelkjpn/Chamada-Notebooks-Lista) | Lista de alunos para o uso dos notebooks da escola | HTML · CSS · JavaScript |
+| 💰 [Fluxo Financeiro](https://github.com/aangelkjpn/Fluxo_Controle_Financeiro) | Site pessoal para controle financeiro | HTML · CSS · JavaScript |
 
 ---
 
