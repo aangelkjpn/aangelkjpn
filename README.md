@@ -41,10 +41,10 @@
 
 | Projeto | Descrição | Tecnologias | Demo |
 |---|---|---|---|
-| 🎮 [GameFinder](https://github.com/aangelkjpn/GameFinder) | App mobile – TCC no SENAI | React Native · Node.js · MySQL | — |
-| 💻 [Controle Saída/Entrada](https://github.com/aangelkjpn/Controle_Saida_Entrada) | Controle de empréstimo de notebooks e fones na escola | HTML · CSS · JavaScript | [Ver online](https://aangelkjpn.github.io/Controle_Saida_Entrada/) |
-| 📋 [Chamada Notebooks](https://github.com/aangelkjpn/Chamada-Notebooks-Lista) | Lista de alunos para o uso dos notebooks da escola | HTML · CSS · JavaScript | [Ver online](https://aangelkjpn.github.io/Chamada-Notebooks-Lista/) |
-| 💰 [Fluxo Financeiro](https://github.com/aangelkjpn/Fluxo_Controle_Financeiro) | Site pessoal para controle financeiro | HTML · CSS · JavaScript | [Ver online](https://aangelkjpn.github.io/Fluxo_Controle_Financeiro/) |
+| [GameFinder](https://github.com/aangelkjpn/GameFinder) | App mobile – TCC no SENAI | React Native · Node.js · MySQL | — |
+| [Controle Saída/Entrada](https://github.com/aangelkjpn/Controle_Saida_Entrada) | Controle de empréstimo de notebooks e fones na escola | HTML · CSS · JavaScript | [Ver online](https://aangelkjpn.github.io/Controle_Saida_Entrada/) |
+| [Chamada Notebooks](https://github.com/aangelkjpn/Chamada-Notebooks-Lista) | Lista de alunos para o uso dos notebooks da escola | HTML · CSS · JavaScript | [Ver online](https://aangelkjpn.github.io/Chamada-Notebooks-Lista/) |
+| [Fluxo Financeiro](https://github.com/aangelkjpn/Fluxo_Controle_Financeiro) | Site pessoal para controle financeiro | HTML · CSS · JavaScript | [Ver online](https://aangelkjpn.github.io/Fluxo_Controle_Financeiro/) |
 
 ---
 
